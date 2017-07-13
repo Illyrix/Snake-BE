@@ -1,0 +1,11 @@
+{
+  "name": "sanke-game-BE",
+  "version": "0.0.1",
+  "description": "back-end side(server side) of a simple multiplayer snake game",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1",
+    "koa-static": "^4.0.1",
+    "socket.io": "^2.0.3"
+  }
+}

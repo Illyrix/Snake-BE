@@ -1,0 +1,8 @@
+{
+  "SIDE_LENGTH": 35,
+  "NAMES": [
+    "Peter", "Eric", "Jack", "Oliver", "Frank"
+  ],
+  "REFRESH_SPEED": 120,
+  "SCORE_PER_FOOD": 10
+}
